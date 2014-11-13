@@ -1,4 +1,6 @@
 Variable,Sensor,Rep,Treatment
+BattV_Avg,Expt,Expt,Expt
+PTemp_C_Avg,Expt,Expt,Expt
 T109_C(2),1,4,PW
 T109_C(1),2,1,F
 T109_C(4),3,1,TT
@@ -27,6 +29,7 @@ T109_C(26),25,1,Plunge
 T109_C(25),26,1,PW
 T109_C(28),27,1,FW
 T109_C(27),28,2,TP
+T109_C(29),29,Expt,AirTemp
 T107_C(1),1,4,P
 T107_C(2),2,4,T
 T107_C(3),3,4,Plunge
